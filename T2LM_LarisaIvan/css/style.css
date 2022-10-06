@@ -44,6 +44,16 @@ img{
     border-radius: 15px;
 }
 
+.info-box {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.info-box > div {
+    padding-left: 1rem;
+}
+
 .datos{
     background-color: #ffd564 ;
     border-radius: 15px;
