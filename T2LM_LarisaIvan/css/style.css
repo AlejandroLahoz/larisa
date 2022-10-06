@@ -1,0 +1,60 @@
+table {
+    background-image: url('../img/rocas.jpg');
+    text-align:center;
+    margin:auto;
+    width:80%;
+    border-style:solid;
+    border-width:thick;
+    border-color:#fb4bd2;
+}
+
+.parrafoIntro{
+    color: #000080;
+}
+
+.nombre{
+    color:black;
+    font-weight: bold;
+}
+
+.memeCeja{
+    background-color: aqua;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+.textoTabla{
+    background-color: white;
+}
+
+img{
+    width:500px;
+    height:500px;
+    object-fit:contain;
+}
+
+.menu{
+    background-color: #fb4bd2;
+    text-align:right;
+}
+
+.intro{
+    background-color:  #ff7475 ;
+    border-radius: 15px;
+}
+
+.datos{
+    background-color: #ffd564 ;
+    border-radius: 15px;
+}
+
+.razones{
+    background-image: url('../img/rocas2.jpg');
+    border-radius: 15px;
+}
+
+.top{
+    background-color: #beffff ;
+    border-radius: 15px;
+}
